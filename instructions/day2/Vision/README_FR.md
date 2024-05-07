@@ -6,8 +6,8 @@
 
 Dans ce défi, vous apprendrez comment:
 
-- Créer un service API de Vision dans Azure
-- Connecter votre service API de Vision avec votre application
+- Créer un service Azure de type API Vision
+- Connecter votre service Azure : API Vision avec votre application
 - Transmettre la clé API à votre application à l'aide des secrets GitHub
 - Commencer à détecter des objets avec votre application
 
@@ -74,7 +74,7 @@ Alors allez-y et détectez au moins 5 objets et dites-nous à quel point votre a
 
 Jetez également un œil à vos objets détectés ou demandez à d'autres personnes de comparer à quel point leurs objets ont été détectés, vous pourriez être surpris.
 
-[◀ Défi précédent](../Github/README_FR.md) | [🔼 Accueil](../../../README_FR.md) | [Prochain défi ▶](../../day2/Speech/README_FR.md)
+[◀ Défi précédent](../../day1/ApplicationPart3/README_FR.md) | [🔼 Accueil](../../../README_FR.md) | [Prochain défi ▶](../../day2/Speech/README_FR.md)
 
 ### Surchargé? Nous vous avons couvert
 
